@@ -47,23 +47,6 @@ print(me.current_status())
 
 ---
 
-## 🏆 Achievements & Stats
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdellahKoulla&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdellahKoulla&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00F5FF&icon_color=7B2FFF&text_color=B4B8D4&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahKoulla&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=00F5FF&text_color=B4B8D4"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdellahKoulla&theme=radical&hide_border=true&background=0A0E27&ring=00F5FF&fire=7B2FFF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
