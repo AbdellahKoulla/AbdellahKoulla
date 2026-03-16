@@ -10,13 +10,6 @@
 
 <br/><br/>
 
-<!-- Profile views & followers badges -->
-<img src="https://komarev.com/ghpvc/?username=AbdellahKoulla&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/AbdellahKoulla?tab=followers">
-  <img src="https://img.shields.io/github/followers/AbdellahKoulla?style=for-the-badge&color=7B2FFF&labelColor=0A0E27&label=FOLLOWERS" alt="followers"/>
-</a>
-
 </div>
 
 ---
