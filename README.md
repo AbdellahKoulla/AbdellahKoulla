@@ -171,17 +171,10 @@ print(me.current_status())
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdellahKoulla/AbdellahKoulla/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-</div>
 
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F5FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 
