@@ -147,22 +147,19 @@ print(me.current_status())
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/abdellahkoulla" target="_blank">
+<a href="https://linkedin.com/in/abdellahkoulla" target="www.linkedin.com/in/abdellahkoulla">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://codeforces.com/profile/abdellah_kl" target="_blank">
+<a href="https://codeforces.com/profile/abdellah_kl" target="https://codeforces.com/profile/Abdellah_kl">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/abdollah__kl" target="_blank">
+<a href="https://instagram.com/abdollah__kl" target="https://www.instagram.com/abdollah_kl/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;
-<a href="https://www.topcoder.com/members/4000" target="_blank">
-  <img src="https://img.shields.io/badge/TopCoder-E05C1A?style=for-the-badge&logo=topcoder&logoColor=white" alt="TopCoder"/>
-</a>
-&nbsp;
+
 <a href="https://AbdellahKoulla.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/>
 </a>
