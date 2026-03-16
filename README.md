@@ -20,7 +20,7 @@
 class AbdellahKoulla:
     def __init__(self):
         self.name        = "Abdellah Koulla"
-        self.age         = 19
+        self.age         = 20
         self.location    = "Marrakech, Morocco 🇲🇦"
         self.education   = "DUT Data Engineering — EST Kalaa des Sraghna"
         self.email       = "abdellah.koulla1@gmail.com"
