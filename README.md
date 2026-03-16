@@ -175,6 +175,7 @@ print(me.current_status())
 
 
 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,100:00F5FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 
